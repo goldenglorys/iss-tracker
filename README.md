@@ -40,3 +40,10 @@ The ISS Tracker is a Python program that provides real-time tracking of the Inte
   ```
 This will start the ISS Tracker and display the world map with the ISS icon. The program will continuously update the ISS location on the screen.
 
+## Configurations
+
+- You can customize the program by adjusting parameters such as the screen size, file paths, and API URLs directly in the source code.
+
+## Acknoledgments
+- ISS location data is obtained from [Open Notify API](http://open-notify.org/).
+- World map and ISS icon images are used for graphical representation.
