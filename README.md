@@ -25,3 +25,18 @@ The ISS Tracker is a Python program that provides real-time tracking of the Inte
 
    ```bash
    git clone https://github.com/goldenglorys/iss-tracker
+   ```
+   
+2. Navigate to the project directory:
+   
+   ```bash
+   cd iss-tracker
+   ```
+   
+3. Run the main Python script:
+   
+  ```bash
+   python iss_tracker.py
+  ```
+This will start the ISS Tracker and display the world map with the ISS icon. The program will continuously update the ISS location on the screen.
+
