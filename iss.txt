@@ -8,4 +8,4 @@ Oleg Kononenko - on board
 Nikolai Chub - on board
 Loral O'Hara - on board
 
-Your current lat / long is: [61.1272, 21.5113]
+Your current lat / long is: [0.00, 0.00]
