@@ -47,3 +47,5 @@ This will start the ISS Tracker and display the world map with the ISS icon. The
 ## Acknoledgments
 - ISS location data is obtained from [Open Notify API](http://open-notify.org/).
 - World map and ISS icon images are used for graphical representation.
+
+## LICENSE
